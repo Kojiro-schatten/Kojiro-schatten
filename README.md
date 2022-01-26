@@ -9,5 +9,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kojiro-schatten&layout=compact)](https://github.com/Kojiro-schatten/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kojiro-schatten&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/Kojiro-schatten/github-profile-trophy)
-
+<!-- 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kojiro-schatten&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/Kojiro-schatten/github-profile-trophy) -->
