@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Kojiro
 
 - 🔭 I’m currently working as a full stack engineer.
-- 🌱 I’m currently learning MySQL detail and design architecture.
 
 <!-- [![Kojiro-schatten's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kojiro-schatten)](https://github.com/Kojiro-schatten/github-readme-stats) -->
 
